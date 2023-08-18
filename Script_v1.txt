@@ -1,7 +1,7 @@
 <inicio>
 Obtener datos de ventas
 Obtener datos de tienda = 'Lima'
-Obtener cantidad de ventas de jueguete
+Obtener cantidad de ventas productos in ('jueguete', 'calzado', 'ropa')
 Generar indicadores
 Exportar muestra en Excel
 <fin>

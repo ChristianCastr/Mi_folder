@@ -1,0 +1,7 @@
+<inicio>
+Obtener datos de ventas
+Obtener datos de tienda = 'Lima'
+Obtener cantidad de ventas de jueguete
+Generar indicadores
+Exportar muestra en Excel
+<fin>
